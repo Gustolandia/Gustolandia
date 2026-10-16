@@ -26,13 +26,13 @@ versions may differ from deposited releases.
 | --- | --- | --- |
 | [Football denominator gradient](https://github.com/Gustolandia/football-denominator-gradient) | Exposure denominators and football injury-rate measurement | Coauthored preprint |
 | [Team-sport allocation law](https://github.com/Gustolandia/team-sport-allocation-law) | Playing-time allocation across team sports | Preprint |
-| [Documented need](https://github.com/Gustolandia/documented-need) | How documented need shapes lead-pipe funding | Preprint; historical diagnostics and withdrawals are recorded in the decision ledger |
+| [Documented need](https://github.com/Gustolandia/documented-need) | How documented need shapes lead-pipe funding | Preprint |
 | [Streaming latency](https://github.com/Gustolandia/streaming-latency-sports) | Measurement validity in Kafka and Redis Streams benchmarks | Manuscript in preparation; deposited artifacts are version-specific |
 
 ## Engineering And Open Source
 
 - **BoscaSports:** backend integrations, live racing-data pipelines, testing and
-  production reliability. This is my current engineering role, not an ML job.
+  production reliability at a data-centred sports-technology company.
 - **[Portfolio backend](https://github.com/Gustolandia/Portfolio-Backend-Node):** a
   maintained Node.js/Netlify service with cookie authentication, CSRF protection,
   validated content updates and automated tests.
