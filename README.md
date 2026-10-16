@@ -18,9 +18,8 @@ research questions. I am seeking ML/AI or statistics PhD opportunities from
 
 ## Research Repositories
 
-These repositories contain code, manuscripts and provenance for work beyond the
-thesis. Preprints are not claims of peer-reviewed acceptance; living repository
-versions may differ from deposited releases.
+Selected preprints and work in preparation. Each repository documents its
+analysis, data provenance and version-specific artifacts.
 
 | Repository | Focus | Status |
 | --- | --- | --- |
